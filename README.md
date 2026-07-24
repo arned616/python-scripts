@@ -1,31 +1,30 @@
-# Python Automation
+# Python & Automation Scripts
 
-## Overview
+A repository for practical scripts supporting IT operations, networking, cybersecurity, and troubleshooting.
 
-Python scripts created to automate networking, cybersecurity, and system administration tasks.
+## Planned Projects
 
-These projects demonstrate scripting fundamentals and practical automation techniques.
-
----
+- Log file parser
+- Network connectivity checker
+- File hash calculator
+- CSV performance analyzer
+- System information collector
+- Basic IOC comparison tool
 
 ## Skills Demonstrated
 
-- File Processing
-- Log Parsing
-- Network Automation
-- Basic Security Automation
-- Python Fundamentals
+- Python fundamentals
+- File and CSV processing
+- Error handling
+- Command-line interfaces
+- Automation documentation
+- Security and networking use cases
 
----
+## Status
 
-## Future Improvements
-
-- REST APIs
-- Automation Frameworks
-- Cloud Automation
-
----
+Project files will be added as they are rebuilt, tested, and documented.
 
 ## Author
 
-Arnaldo Cabrera
+**Arnaldo Cabrera**  
+CompTIA Security+ | Python | PowerShell | Bash | Networking | Cybersecurity
